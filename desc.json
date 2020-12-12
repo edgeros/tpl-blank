@@ -1,0 +1,26 @@
+{
+	"id":"com.replaceme.demo",
+	"name":"Default Name",
+	"ico":{
+		"big":"big.png",
+		"small":"small.png"
+	},
+	"program":{
+		"gss":false,
+		"log":"console",
+		"will":false,
+		"main":"main.js",
+		"splash":"assets/images/start.jpg",
+		"reside":false,
+		"mesv":[0, 9, 0],
+		"release":1584713621618,
+		"version":[0, 0, 1]
+	},
+	"vendor":{
+		"id":"default@company.com",
+		"name":"default",
+		"email":"default@company.com",
+		"phone":"",
+		"fax":""
+	}
+}
