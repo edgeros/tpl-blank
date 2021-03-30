@@ -1,0 +1,16 @@
+{
+    "name": "edger-app",
+    "version": "0.0.1",
+    "description": "",
+    "main": "",
+    "dependencies": {
+        "@edgeros/types": "^0.0.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build": "edger build",
+        "publish": "edger publish"
+    },
+    "author": "",
+    "license": "ISC"
+}
