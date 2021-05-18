@@ -12,5 +12,5 @@
         "publish": "edger publish"
     },
     "author": "",
-    "license": "ISC"
+    "license": "MIT"
 }
