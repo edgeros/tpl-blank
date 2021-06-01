@@ -4,7 +4,9 @@
     "description": "",
     "main": "",
     "dependencies": {
-        "@edgeros/types": "^0.0.1"
+        "@edgeros/eslint-plugin-jsre": "^0.0.1",
+        "@edgeros/jsre-types": "^0.1.1",
+        "eslint": "^7.23.0"
     },
     "devDependencies": {},
     "scripts": {
