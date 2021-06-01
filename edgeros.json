@@ -1,0 +1,30 @@
+{
+    "bundleid": "com.replaceme.demo",
+    "ignore_modules": [
+        "@edgeros/eslint-plugin-jsre",
+        "@edgeros/jsre-types"
+    ],
+    "ignore_path": [
+        "./test/*",
+        "./temp/*"
+    ],
+    "assets": {
+        "ico_big": "assets/big.png",
+        "ico_small": "assets/small.png",
+        "splash": "assets/start.jpg"
+    },
+    "program": {
+        "gss": false,
+        "log": "console",
+        "will": false,
+        "reside": false,
+        "mesv": "0.9.0"
+    },
+    "vendor": {
+        "id": "default@company.com",
+        "name": "default",
+        "email": "default@company.com",
+        "phone": "",
+        "fax": ""
+    }
+}

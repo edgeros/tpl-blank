@@ -1,14 +1,14 @@
 {
     "name": "edger-app",
-    "version": "0.0.1",
+    "version": "0.0.10",
     "description": "",
-    "main": "",
-    "dependencies": {
-        "@edgeros/eslint-plugin-jsre": "^0.0.1",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^7.23.0",
         "@edgeros/jsre-types": "^0.1.1",
-        "eslint": "^7.23.0"
+        "@edgeros/eslint-plugin-jsre": "^0.0.1"
     },
-    "devDependencies": {},
     "scripts": {
         "build": "edger build",
         "publish": "edger publish"

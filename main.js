@@ -4,7 +4,6 @@ const iosched = require('iosched');
 
 // Create app.
 const app = Web.createApp();
-
 app.use(bodyParser.json());
 app.use(Web.static('./public', { index: ['index.html', 'index.htm'] }));
 
